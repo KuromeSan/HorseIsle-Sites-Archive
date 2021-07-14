@@ -1,0 +1,207 @@
+<HEAD><TITLE>Horse Isle: Legend of the Esrohs - New Player Guide</TITLE>
+<style type="text/css">
+
+body {
+margin: 0px;
+font: normal 14px arial;
+color: #000000;
+background-image: url(/www/g/ltbg.png);
+}
+DIV {
+text-align:left;
+}
+
+a {
+font: bold 14px arial;
+color: #005511;
+text-decoration: underline;
+}
+
+a.onbrown {
+color: #FFFFFF;
+}
+
+FONT.wintitle {
+font-variant: small-caps;
+font-size: 22px;
+font-weight: bold;
+color: #FFFFFF;
+}
+
+IMG {
+border:0;
+}
+
+TABLE {
+empty-cells:show;
+border-spacing:0px;
+}
+
+TABLE.list TD {
+padding:2px;
+}
+
+TABLE.toplistbrief TD {
+font-size: 12px;
+padding: 0px 2px;
+color: #202020;
+}
+
+whiteback {
+background-color: #FFFFFF;
+}
+
+hr {
+height: 2;
+color: #000000;
+background-color: #000000;
+border: 0;
+}
+
+hr.thick {
+height: 4;
+}
+
+TH {
+background-color: #EDE5B4;
+padding: 2px 6px;
+border: 1px solid #000000;
+font: small-caps 900 14px arial;
+color: #000000;
+}
+
+TR.a0 {
+background-color: #EDE5B4;
+}
+
+TR.a1 {
+background-color: #D4CCA1;
+}
+
+TD {
+font: 14px arial;
+color: #000000;
+margin:0px;
+padding: 0px;
+}
+
+TD.newslist {
+padding: 4px 4px;
+border: 2px solid #000000;
+background-color: #dbefa9;
+text-align: left;
+}
+
+TD.forum {
+font: 12px arial;
+padding: 2px;
+}
+
+TD.forumlist {
+padding: 1px 2px;
+border: 2px outset #ffe400;
+background-color: #EDE5B4;
+text-align: center;
+font: bold 14px arial;
+}
+
+TD.forumcell {
+border-width: 1px 0px;
+border-style:solid;
+border-color:FFFFEE;
+}
+
+TD.forumselected {
+padding: 1px 2px;
+border: 2px inset #ffe400;
+background-color: #dac270;
+text-align: center;
+font: bold 14px arial;
+}
+
+TD.forumpost {
+padding: 5px 10px;
+border: 2px solid #000000;
+background-color: #F5F0D0;
+text-align: left;
+}
+
+TD.forumadmin {
+padding: 5px 10px;
+border: 2px solid #000000;
+background-color: #FFDDDD;
+}
+
+FORUMSUBJECT {
+font: bold 14px arial;
+color: #004400;
+}
+
+FORUMUSER {
+font: 12px arial;
+color: #000044;
+}
+
+FORUMDATE {
+font: 12px arial;
+color: #444444;
+}
+
+FORUMTEXT {
+font: 14px arial;
+color: #440000;
+}
+
+#login {
+font: bold 16px arial;
+display:inline;
+background-color:FFFFEE;
+padding: 5px;
+margin-left:60px;
+}
+
+</style>
+
+<link rel="icon" type="image/png" href="/www/g/favicon.ico" />
+<link rel="shortcut icon" type="image/png" href="/www/g/favicon.ico" />
+</HEAD>
+<BODY BGCOLOR=E0D8AA>
+<TABLE WIDTH=100% BORDER=0 CELLSPACING=0 CELLPADDING=0>
+<TR HEIGHT=5 BGCOLOR=000000><TD COLSPAN=3></TD></TR> 
+<TR HEIGHT=200 BGCOLOR=321B08><TD style="background-image:url('/www/g/dkbg.png');"></TD>
+<TD style="background-image:url('/www/g/3.jpg');" WIDTH=790 HEIGHT=200><A HREF=/www/><IMG SRC=/www/g/logotop-lc.png></a></TD>
+<TD style="background-image:url('/www/g/dkbg.png');"></TD></TR>
+<TR HEIGHT=5 BGCOLOR=000000><TD></TD><TD WIDTH=790 HEIGHT=5><A HREF=/www/><IMG SRC=/www/g/logomid.png></A></TD><TD></TD></TR> 
+<TR><TD></TD><TD WIDTH=790 VALIGN=top><A HREF=/www/><IMG SRC=/www/g/logobot.png
+ ALIGN=CENTER></A><div id='login'><FORM METHOD=POST style='display:inline;'>Player:<INPUT TYPE=TEXT SIZE=12 NAME=USER>&nbsp;  Pass:<INPUT TYPE=PASSWORD SIZE=14 NAME=PASS><INPUT TYPE=SUBMIT VALUE=LOGIN></FORM> (<a href=/www/forgotpass.php>Forgot?</a>)</div></TD><TD></TD></TR>
+</TABLE>
+<CENTER>
+
+<div align=left style="width:790px">
+
+<CENTER><FONT COLOR=RED><B></B></FONT></CENTER><BR>
+
+<div style="width:790px;height:5px;background-color:000000;margin-top:4;"><!-- --></div><div style="width:790px;height:22px;background-image:url('/www/g/dkbg.png');padding:5px 0px;text-indent:40px;"><FONT class=wintitle>How-to Videos</FONT> &nbsp; &nbsp; <FONT COLOR=FFFFFF>(The videos are narrated, so be sure your sound is on.)</FONT></div><div style="width:790px;height:5px;background-color:000000;margin-bottom:4;"><!-- --></div>
+<CENTER>
+<HR>
+<B>Competition Stats: What they rely on and how computed.</B><BR><object width="660" height="525"><param name="movie" value="//www.youtube.com/v/hCDNVDbixC0&hl=en_US&fs=1&rel=0&color1=0x234900&color2=0x4e9e00&border=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/hCDNVDbixC0&hl=en_US&fs=1&rel=0&color1=0x234900&color2=0x4e9e00&border=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="660" height="525"></embed></object><HR></CENTER><B>Beginner Help Videos:</B><BR><LI>[<A HREF=?V=5>PLAY</A>] Welcome Isle Walkthrough: Completing your first quest.</LI><LI>[<A HREF=?V=10>PLAY</A>] General Gameplay: Overview of Horse Isle: Legend of the Esrohs.</LI><LI>[<A HREF=?V=15>PLAY</A>] Horse Isle Money: Ways of earning some money.</LI><LI>[<A HREF=?V=20>PLAY</A>] Horse Capture: Capturing a wild horse.</LI><LI>[<A HREF=?V=30>PLAY</A>] Naming your horse: How to name your horse within dictionary rules.</LI><LI>[<A HREF=?V=35>PLAY</A>] Chatting: Different types and how the filter works.</LI><LI>[<A HREF=?V=38>PLAY</A>] Competitions: Competing in the various Arenas.</LI><LI>[<A HREF=?V=40>PLAY</A>] Library and BBB: How to view available horses.</LI><LI>[<A HREF=?V=42>PLAY</A>] Community Board: How to find valuable information.</LI><LI>[<A HREF=?V=45>PLAY</A>] Crafting: making things yourself!</LI><BR><B>Advanced Help Videos:</B><BR><LI>[<A HREF=?V=50>PLAY</A>] Game Speed Improvements: How to speed up the game.</LI><LI>[<A HREF=?V=58>PLAY</A>] Subscription Tokens: How to obtain and use.</LI><LI>[<A HREF=?V=60>PLAY</A>] Horse Tokens: How to use and available options.</LI><LI>[<A HREF=?V=62>PLAY</A>] Super Horse Tokens: How to use and additional options.</LI><LI>[<A HREF=?V=65>PLAY</A>] Club Tokens: How to use and available options.</LI><LI>[<A HREF=?V=80>PLAY</A>] Art Kit: Creating custom profile and rump art.</LI><LI>[<A HREF=?V=90>PLAY</A>] Competition Stats: What they rely on and how computed.</LI><LI>[<A HREF=?V=95>PLAY</A>] Breeding: All about breeding.</LI><HR>
+</div>
+<BR style='clear:both'>
+<div style='background-color:000000;width:100%;height:5px;margin-top:8px;'><!-- --></div>
+<TABLE WIDTH=100% CELLSPACING=0 CELLPADDING=0>
+<TR style="background-image:url('/www/g/dkbg.png');">
+<TD></TD>
+<TD WIDTH=300><CENTER><FONT COLOR=FFFFFF>
+[ <A class=onbrown HREF=/www/termsandconditions.php>Terms and Conditions</A> ]<BR>
+[ <A class=onbrown HREF=/www/breeding.php>Breeding Tables</A> ]<BR>
+[ <A class=onbrown HREF=/www/privacypolicy.php>Privacy Policy</A> ]<BR>
+[ <A class=onbrown HREF=/www/credits.php>Credits</A> ]</CENTER></TD>
+<TD WIDTH=100><IMG SRC=/www/g/minilogo.png></TD>
+<TD WIDTH=300><CENTER><FONT COLOR=FFFFFF>
+[ <A class=onbrown HREF=/www/howtovideos.php>How-to Videos</A> ]<BR>
+[ <A class=onbrown HREF=/www/screenshots/>Screen Shots</A> ]<BR>
+[ <A class=onbrown HREF=/www/contactus.php>Contact Us</A> ]<BR>
+[ <A class=onbrown HREF=/www/rules.php>Rules</A> ]</CENTER></TD>
+<TD></TD></TR></TABLE>
+<div style='background-color:000000;width:100%;height:5px;margin-bottom:8px;'><!-- --></div>
+<CENTER><FONT style='font-size:11px;'>Copyright &copy; 2007 - 2021 Horse Isle - All Rights Reserved</FONT></CENTER>
